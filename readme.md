@@ -34,4 +34,10 @@
 
 
 
-XGB: 1.94		LGB: 1.86		LGB+STA: 1.82		LGB+XGB+STA: 1.80
+XGB: 1.94		
+
+LGB: 1.86		
+
+LGB+STA: 1.82		
+
+LGB+XGB+STA: 1.80
